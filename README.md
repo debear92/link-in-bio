@@ -1,8 +1,8 @@
-#Link in Bio
+# Link in Bio
 
 This is a landing page to link to your Social Media pages to collect everything that is you in one single page: links to your other social media accounts, link to videos, articles plus a contact form for brands to get in touch. 
 
-#Features
+## Features
 
 - __Navigation Bar__
 
