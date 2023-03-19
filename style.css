@@ -1,0 +1,115 @@
+header {
+    display:grid;
+    place-items: center;
+}
+
+nav a {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    color: #839E8F;
+    text-decoration:none;
+    font-family: 'Noto Serif', serif;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #524438;
+}
+
+img {
+    border-radius: 150%;
+    width: 300px;
+    height: 300px;
+    border: 3px solid #524438;
+}
+
+html {
+    background-color: #fde6d2;
+}
+
+body {
+    display: grid;
+    place-items: center; 
+}
+
+#aboutme {
+    border: 2px solid #524438; 
+    border-radius: 25px;
+    padding: 20px;
+}
+
+#mysocial {
+    border: 2px solid #524438; 
+    border-radius: 25px;
+    display:grid;
+    place-items: center; 
+    text-align: center;
+}
+
+#contactme {
+    border: 2px solid #524438; 
+    border-radius: 25px;
+    padding: 20px;
+}
+
+div h4 {
+    font-family: 'Noto Serif', serif;
+    color: #839E8F;
+    font-size: large;
+    display:grid;
+    place-items: center;
+}
+
+div p {
+    font-family: 'Noto Sans Symbols', sans-serif;
+    font-size: medium;
+    color:#524438;
+}
+
+#mysocial a i {
+    padding: 10px;
+}
+
+.fa-brands {
+    color: #B9A89A;
+}
+
+#contactme p {
+    display:grid;
+    place-items: center;
+}
+
+.mysocialicons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+.form label {
+    display:table-cell;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    color: #92BAB3;
+    padding: 10px;
+}
+
+.form input {
+    border-color:#B9A89A;
+    font-family: 'Noto Serif', serif;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+#submit {
+    background-color: #C9F2EA;
+    color: #92BAB3;
+}
