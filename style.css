@@ -112,4 +112,17 @@ div p {
 #submit {
     background-color: #C9F2EA;
     color: #92BAB3;
+    display: block;
+    margin: 0 auto;
+}
+
+.label {
+    display:grid;
+    place-items: center;
+}
+
+footer p {
+    font-family: 'Noto Serif', serif;
+    color:#524438;
+    font-size:x-small;
 }
